@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+}
+.vermelho {
+    background-color: brown;
+}
+.azul {
+    background-color: blue;
+}
+.amarelo {
+    background-color: darkgoldenrod;
+}
+
+header {
+    
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+main {
+    height: 80vh;
+}
+footer {
+    height: 10vh;
+    border: 1px solid gray;
+}
